@@ -51,7 +51,7 @@ class _CounterWidgetState extends State<CounterWidget> {
   Widget build(BuildContext context) {
     return Container(
       margin: EdgeInsets.all(8.0),
-      width: 120.0,
+      width: 130.0,
       decoration: BoxDecoration(
         borderRadius: BorderRadius.all(Radius.circular(10.0)),
         color: Color.fromARGB(255, 195, 200, 226),
